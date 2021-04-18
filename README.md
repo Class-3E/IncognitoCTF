@@ -1,2 +1,2 @@
 # IncognitoCTF
-Writeups for Incognito CTF
+Just a few writeups for the Incognito CTF 
